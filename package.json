@@ -1,0 +1,21 @@
+{
+  "name": "solid-dev-warning-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "solid-js": "^1.0.7"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-typescript": "^7.15.0",
+    "typescript": "^4.3.5",
+    "vite": "^2.4.4",
+    "vite-plugin-solid": "^2.0.1"
+  }
+}
